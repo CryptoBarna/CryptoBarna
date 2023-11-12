@@ -11,4 +11,6 @@
 - Explore other Static Site generators and attempt to implement
 - Connect DNS domain to github pages of this README.md
 - Clean up / beautify this README.md
+- Review/Check content, missing 'x' in content due to import error to be checked
+- Review/Check for deadlinks and broken URLs
 - Have a cerveza
