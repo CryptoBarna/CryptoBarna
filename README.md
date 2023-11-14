@@ -18,8 +18,8 @@ Twitter: https://twitter.com/cryptobarna
 - Update and Review content **[DONE]**
 - Review missing 'x' in content due to import error **[DONE]**
 - Review/Check for deadlinks and broken URLs **[DONE]**
+- Setup Github Pages for each language **[DONE]**
 - Clean up / beautify this README.md
-- Setup Github Pages for each language
 - Have a cerveza
 
 **WISHLIST**
@@ -30,37 +30,34 @@ Twitter: https://twitter.com/cryptobarna
 
 
 
-//
+///
 
-# Benvingut / Benvenido / Welcome @
- 
-_________                        __          
-\_   ___ \_______ ___.__._______/  |_  ____  
-/    \  \/\_  __ <   |  |\____ \   __\/  _ \ 
-\     \____|  | \/\___  ||  |_> >  | (  <_> )
- \______  /|__|   / ____||   __/|__|  \____/ 
-        \/        \/     |__|                
-__________                                    
-\______   \_____ _______  ____ _____   
- |    |  _/\__  \\_  __ \/    \\__  \  
- |    |   \ / __ \|  | \/   |  \/ __ \_
- |______  /(____  /__|  |___|  (____  /
-        \/      \/           \/     \/ 
+
+# Benvingut /// Benvenido /// Welcome @
+
+
+_________                        __        __________                             
+\_   ___ \_______ ___.__._______/  |_  ____\______   \_____ _______  ____ _____   
+/    \  \/\_  __ <   |  |\____ \   __\/  _ \|    |  _/\__  \\_  __ \/    \\__  \  
+\     \____|  | \/\___  ||  |_> >  | (  <_> )    |   \ / __ \|  | \/   |  \/ __ \_
+ \______  /|__|   / ____||   __/|__|  \____/|______  /(____  /__|  |___|  (____  /
+        \/        \/     |__|                      \/      \/           \/     \/ 
+
 
 ## Català 
-- Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
-- DNS link: https://cryptobarna.github.io/cryptobarna/ca/index.html
+- Github Pages Link: https://cryptobarna.github.io/cryptobarna/ca/index.html
+- DNS link: https://cryptobarna.info/ca/index.html
 - Onion link: TBC
 - Updated: Block 816746 
 
 ## Castellano 
-- Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- Github Pages Link: https://cryptobarna.info/es/index.html
 - DNS link: https://cryptobarna.github.io/cryptobarna/es/index.html
 - Onion link: TBC
 - Updated: Block 816746 
 
 ## English
 - Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
-- DNS link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- DNS link: https://cryptobarna.info/en/index.html
 - Onion link: TBC
 - Updated: Block 816746 
