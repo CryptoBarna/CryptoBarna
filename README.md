@@ -1,8 +1,11 @@
-#Crypto Barna
+# Crypto Barna
 
 **Aggregator of services and communities in Barcelona and Catalunya passionate about Cryptography - Cryptocurrency - Blockchain - Web3 - DAO - NFT**
 
-#REPO UNDER DEVELOPMENT - 
+DNS: https://cryptobarna.info
+Twitter: https://twitter.com/cryptobarna
+
+# REPO UNDER DEVELOPMENT - 
 
 **ROADMAP**
 - Strip and import HTML from last iteration of website **[DONE]**
@@ -45,19 +48,19 @@ __________
         \/      \/           \/     \/ 
 
 ## Català 
-Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
-DNS link: https://cryptobarna.github.io/cryptobarna/ca/index.html
-Onion link: TBC
-Updated: Block 816746 
+- Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- DNS link: https://cryptobarna.github.io/cryptobarna/ca/index.html
+- Onion link: TBC
+- Updated: Block 816746 
 
 ## Castellano 
-Updated: Block 816746 
-Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
-DNS link: https://cryptobarna.github.io/cryptobarna/es/index.html
-Onion link: TBC
+- Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- DNS link: https://cryptobarna.github.io/cryptobarna/es/index.html
+- Onion link: TBC
+- Updated: Block 816746 
 
 ## English
-Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
-DNS link: https://cryptobarna.github.io/cryptobarna/en/index.html
-Onion link: TBC
-Updated: Block 816746 
+- Github Pages Link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- DNS link: https://cryptobarna.github.io/cryptobarna/en/index.html
+- Onion link: TBC
+- Updated: Block 816746 
