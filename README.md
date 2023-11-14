@@ -1,8 +1,10 @@
 # Crypto Barna
 
-**Aggregator of services and communities in Barcelona and Catalunya passionate about Cryptography - Cryptocurrency - Blockchain - Web3 - DAO - NFT**
+**Free CC0 licensed aggregator of services and communities in Barcelona and Catalunya**
+**passionate about Cryptography - Cryptocurrency - Blockchain - Web3 - DAO - NFT - DeFi**
 
 DNS: https://cryptobarna.info
+
 Twitter: https://twitter.com/cryptobarna
 
 # REPO UNDER DEVELOPMENT - 
@@ -35,12 +37,7 @@ Twitter: https://twitter.com/cryptobarna
 
 # Benvingut /// Benvenido /// Welcome @
 
-_________                      __       __________                            
-\_   ___ _____________ ___.___/  |_ ____\______   _____ _______  ____ _____   
-/    \  \\_  __ \____ <   |  \   __/  _ \|    |  _\__  \\_  __ \/    \\__  \  
-\     \___|  | \|  |_> \___  ||  |(  <_> |    |   \/ __ \|  | \|   |  \/ __ \_
- \______  |__|  |   __// ____||__| \____/|______  (____  |__|  |___|  (____  /
-        \/      |__|   \/                       \/     \/           \/     \/ 
+< INSERT SVG or PNG of ASCII landing page output
         
 ## Català 
 - Github Pages Link: https://cryptobarna.github.io/cryptobarna/ca/index.html
