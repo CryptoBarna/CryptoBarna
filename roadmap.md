@@ -1,8 +1,8 @@
 # STATUS: Launched and Online
 
 **Timestamp**
-Bitcoin Block 816784
-00000000000000000001da408c9fca7fa9b71df6337ddafa57ad3ce3c4f9a98c
+Bitcoin Block 817177
+00000000000000000002e0b993279e9b79e0a95142a461687709cc34028dd814
 
 **ROADMAP**
 - Review/Check for deadlinks and broken URLs **[DONE]**
