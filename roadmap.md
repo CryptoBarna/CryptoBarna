@@ -5,8 +5,12 @@ Bitcoin Block 816784
 00000000000000000001da408c9fca7fa9b71df6337ddafa57ad3ce3c4f9a98c
 
 **ROADMAP**
-- Review/Check for deadlinks and broken URLs
--  
+- Review/Check for deadlinks and broken URLs **[DONE]**
+- Review HTML code for eerrors in English with WC3 code checker **[DONE]**
+- Review HTML code for errors in Castellano with WC3 code checker
+- Review HTML code for errors in Castalan with WC3 code checker
+- Review HTML code for errors in Landing page with WC3 code checker
+
 
 **WISHLIST**
 - Explore Static Site generators (Jekyll) and test import
